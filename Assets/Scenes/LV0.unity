@@ -137,7 +137,7 @@ GameObject:
   - component: {fileID: 60902193}
   m_Layer: 0
   m_Name: Ground
-  m_TagString: Untagged
+  m_TagString: Respawn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2189,7 +2189,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1483613699}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 500, y: 2.5, z: 520}
+  m_LocalPosition: {x: 500, y: 2.6, z: 520}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2224,7 +2224,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 814974699b6d43148be864307bbef28d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  name: 
   countText: {fileID: 1376523774}
   speed: 5
 --- !u!1 &1548318573

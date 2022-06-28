@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Collectable
+  - Finish1
+  - Finish0
   layers:
   - Default
   - TransparentFX

@@ -1,491 +1,497 @@
 ﻿{ "pid": 0, "tid": -1, "ph": "M", "name": "process_name", "args": { "name": "BeeDriver" } },
 { "pid": 0, "tid": -1, "ph": "M", "name": "process_sort_index", "args": { "sort_index": "-2" } },
 { "pid": 0, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "" } },
-{ "pid": 0, "tid": 1, "ts": 1655305921316599, "dur": 922337203685477580, "ph": "X", "name": "Build ScriptAssemblies", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1655305921317933, "dur": 23520, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1655305921341699, "dur": 54249, "ph": "X", "name": "Run Backend", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1655305921395972, "dur": 257003, "ph": "X", "name": "BuildProgram", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1655305921652977, "dur": 4699905, "ph": "X", "name": "Run Backend", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1655305926352902, "dur": 9702, "ph": "X", "name": "Finish", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1655305937865261, "dur": 922337203685477580, "ph": "X", "name": "Build Player", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1655305937865513, "dur": 8557, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1655305937874073, "dur": 47365, "ph": "X", "name": "Run Backend", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1655305937921439, "dur": 821671, "ph": "X", "name": "BuildProgram", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1655305938743112, "dur": 1377726, "ph": "X", "name": "Run Backend", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1655305940120840, "dur": 11639, "ph": "X", "name": "Finish", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1655305940132890, "dur": 23, "ph": "X", "name": "", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1656405916976149, "dur": 922337203685477580, "ph": "X", "name": "Build ScriptAssemblies", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1656405916977644, "dur": 22903, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1656405917000781, "dur": 1036574, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1656405918037376, "dur": 9756, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1656405922303345, "dur": 922337203685477580, "ph": "X", "name": "Build Player", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1656405922303563, "dur": 20586, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1656405922324151, "dur": 40667, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1656405922364851, "dur": 339586, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1656405922704439, "dur": 1332890, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1656405924037331, "dur": 17093, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1656405924054847, "dur": 20, "ph": "X", "name": "", "args": {} },
 { "pid": 35942, "tid": -1, "ph": "M", "name": "process_name", "args": { "name": "netcorerun.dll" } },
 { "pid": 35942, "tid": -1, "ph": "M", "name": "process_sort_index", "args": { "sort_index": "-1" } },
 { "pid": 35942, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "" } },
-{ "pid": 35942, "tid": 1, "ts": 1655305938525106, "dur": 202408, "ph": "X", "name": "BuildProgram", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1655305938526182, "dur": 44783, "ph": "X", "name": "BuildProgramContextConstructor", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1655305938711452, "dur": 4461, "ph": "X", "name": "OutputData.Write", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1655305938715916, "dur": 11591, "ph": "X", "name": "Backend.Write", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1655305938716763, "dur": 10047, "ph": "X", "name": "JsonToString", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1655305938732241, "dur": 1255, "ph": "X", "name": "", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1655305938731456, "dur": 2062, "ph": "X", "name": "Write chrome-trace events", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1655305940132978, "dur": 175, "ph": "X", "name": "buildprogram0.traceevents", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1656405922541266, "dur": 146274, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1656405922542255, "dur": 41998, "ph": "X", "name": "BuildProgramContextConstructor", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1656405922671954, "dur": 4564, "ph": "X", "name": "OutputData.Write", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1656405922676521, "dur": 11012, "ph": "X", "name": "Backend.Write", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1656405922677243, "dur": 9653, "ph": "X", "name": "JsonToString", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1656405922692610, "dur": 1334, "ph": "X", "name": "", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1656405922691809, "dur": 2158, "ph": "X", "name": "Write chrome-trace events", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1656405924054932, "dur": 165, "ph": "X", "name": "buildprogram0.traceevents", "args": {} },
 { "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
-,{ "pid":12345, "tid":0, "ts":1655305938787609, "dur":1671, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1655305938789288, "dur":44, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
-,{ "pid":12345, "tid":0, "ts":1655305938789340, "dur":14, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
-,{ "pid":12345, "tid":0, "ts":1655305938789355, "dur":342, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
-,{ "pid":12345, "tid":0, "ts":1655305938789728, "dur":492, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1655305938790220, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1655305940100565, "dur":79, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1655305940100644, "dur":25, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1655305940100669, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1655305940100673, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1655305940100680, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1655305940100682, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1655305940100688, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1655305940100690, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1655305940100697, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1655305940100700, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1655305940100705, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1655305940100707, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1655305940100714, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1655305940100734, "dur":2, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1655305940100782, "dur":1481, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
-,{ "pid":12345, "tid":1, "ts":1655305938790125, "dur":143, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1655305938790268, "dur":2694, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1655305938792962, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":1, "ts":1655305938793001, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1655305938794806, "dur":121261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":1, "ts":1655305938916087, "dur":20559, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
-,{ "pid":12345, "tid":1, "ts":1655305938936652, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1655305938936659, "dur":41918, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
-,{ "pid":12345, "tid":1, "ts":1655305938978591, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
-,{ "pid":12345, "tid":1, "ts":1655305938978614, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1655305938978966, "dur":41530, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
-,{ "pid":12345, "tid":1, "ts":1655305939020516, "dur":47315, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
-,{ "pid":12345, "tid":1, "ts":1655305939067835, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1655305939068054, "dur":1042, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
-,{ "pid":12345, "tid":1, "ts":1655305939069113, "dur":263725, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/UnityCrashHandler64.exe" }}
-,{ "pid":12345, "tid":1, "ts":1655305939332842, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1655305939332868, "dur":1133, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/UnityCrashHandler64.exe" }}
-,{ "pid":12345, "tid":1, "ts":1655305939334018, "dur":31987, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1655305939366010, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1655305939366017, "dur":931, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1655305939366980, "dur":32158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.TerrainModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1655305939399142, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1655305939399148, "dur":2270, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.TerrainModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1655305939401566, "dur":19092, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1655305939420662, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1655305939420669, "dur":844, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1655305939421547, "dur":33194, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.PhysicsModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1655305939454746, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1655305939454756, "dur":2164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.PhysicsModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1655305939456966, "dur":20739, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1655305939477710, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1655305939477717, "dur":703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1655305939478451, "dur":22215, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.GridModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1655305939500669, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1655305939500675, "dur":864, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.GridModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1655305939501570, "dur":18800, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.DirectorModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1655305939520373, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1655305939520379, "dur":1534, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.DirectorModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1655305939521942, "dur":15458, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1655305939537404, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1655305939537410, "dur":2527, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1655305939539979, "dur":14212, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.ARModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1655305939554196, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1655305939554204, "dur":2566, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.ARModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1655305939556805, "dur":77176, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1655305939633984, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1655305939633991, "dur":910, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1655305939634933, "dur":15122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/Unity.Profiling.Core.dll" }}
-,{ "pid":12345, "tid":1, "ts":1655305939650059, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1655305939650066, "dur":735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/Unity.Profiling.Core.dll" }}
-,{ "pid":12345, "tid":1, "ts":1655305939650831, "dur":30857, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/System.Transactions.dll" }}
-,{ "pid":12345, "tid":1, "ts":1655305939681692, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1655305939681699, "dur":900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/System.Transactions.dll" }}
-,{ "pid":12345, "tid":1, "ts":1655305939682637, "dur":56281, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/System.ServiceModel.Internals.dll" }}
-,{ "pid":12345, "tid":1, "ts":1655305939738922, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1655305939738946, "dur":929, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/System.ServiceModel.Internals.dll" }}
-,{ "pid":12345, "tid":1, "ts":1655305939739909, "dur":53764, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/System.Numerics.dll" }}
-,{ "pid":12345, "tid":1, "ts":1655305939793678, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1655305939793685, "dur":1029, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/System.Numerics.dll" }}
-,{ "pid":12345, "tid":1, "ts":1655305939794749, "dur":22838, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/System.EnterpriseServices.dll" }}
-,{ "pid":12345, "tid":1, "ts":1655305939817591, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1655305939817598, "dur":1399, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/System.EnterpriseServices.dll" }}
-,{ "pid":12345, "tid":1, "ts":1655305939819031, "dur":21089, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/System.Data.DataSetExtensions.dll" }}
-,{ "pid":12345, "tid":1, "ts":1655305939840123, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1655305939840127, "dur":1291, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/System.Data.DataSetExtensions.dll" }}
-,{ "pid":12345, "tid":1, "ts":1655305939841452, "dur":79203, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/System.Core.dll" }}
-,{ "pid":12345, "tid":1, "ts":1655305939920658, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1655305939920663, "dur":1370, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/System.Core.dll" }}
-,{ "pid":12345, "tid":1, "ts":1655305939922082, "dur":176043, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/mscorlib.dll" }}
-,{ "pid":12345, "tid":1, "ts":1655305940098129, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1655305940098135, "dur":2372, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/mscorlib.dll" }}
-,{ "pid":12345, "tid":1, "ts":1655305940100539, "dur":0, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
-,{ "pid":12345, "tid":1, "ts":1655305940100540, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1655305938789966, "dur":290, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1655305938790256, "dur":2753, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1655305938793009, "dur":114051, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
-,{ "pid":12345, "tid":2, "ts":1655305938907063, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1655305938907075, "dur":911, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
-,{ "pid":12345, "tid":2, "ts":1655305938908001, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
-,{ "pid":12345, "tid":2, "ts":1655305938908031, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1655305938908144, "dur":70417, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
-,{ "pid":12345, "tid":2, "ts":1655305938978575, "dur":31329, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/MonoBleedingEdge/etc/mono/2.0/web.config" }}
-,{ "pid":12345, "tid":2, "ts":1655305939009908, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1655305939009980, "dur":643, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/MonoBleedingEdge/etc/mono/2.0/web.config" }}
-,{ "pid":12345, "tid":2, "ts":1655305939010641, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":2, "ts":1655305939010687, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1655305939010693, "dur":129360, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":2, "ts":1655305939140074, "dur":13593, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.VRModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939153671, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1655305939153678, "dur":1344, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.VRModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939155059, "dur":21758, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.VideoModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939176821, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1655305939176827, "dur":801, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.VideoModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939177662, "dur":11833, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.VehiclesModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939189499, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1655305939189505, "dur":730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.VehiclesModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939190266, "dur":19230, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939209499, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1655305939209506, "dur":867, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939210414, "dur":50743, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939261161, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1655305939261168, "dur":851, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939262053, "dur":30773, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939292831, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1655305939292838, "dur":1562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939294435, "dur":115214, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.UIElementsModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939409658, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1655305939409670, "dur":2557, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.UIElementsModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939412274, "dur":16904, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939429182, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1655305939429189, "dur":1825, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939431048, "dur":12377, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939443429, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1655305939443436, "dur":1066, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939444537, "dur":13496, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.LocalizationModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939458054, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1655305939458060, "dur":749, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.LocalizationModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939458842, "dur":13582, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.InputModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939472433, "dur":8, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1655305939472448, "dur":1373, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.InputModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939473854, "dur":11986, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.HotReloadModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939485844, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1655305939485870, "dur":933, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.HotReloadModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939486835, "dur":12754, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.GIModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939499593, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1655305939499599, "dur":690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.GIModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939500319, "dur":17281, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939517605, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1655305939517611, "dur":858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939518500, "dur":14184, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939532692, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1655305939532699, "dur":753, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939533485, "dur":32057, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.AudioModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939565546, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1655305939565553, "dur":1747, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.AudioModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939567336, "dur":19003, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939586343, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1655305939586350, "dur":884, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939587270, "dur":47716, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/Unity.VisualScripting.Core.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939634988, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1655305939634994, "dur":1546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/Unity.VisualScripting.Core.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939636571, "dur":48315, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/System.Xml.Linq.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939684889, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1655305939684896, "dur":1047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/System.Xml.Linq.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939685976, "dur":96436, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/System.Runtime.Serialization.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939782416, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1655305939782423, "dur":1831, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/System.Runtime.Serialization.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939784289, "dur":55768, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/System.IO.Compression.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939840061, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1655305939840070, "dur":1411, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/System.IO.Compression.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939841511, "dur":78376, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/System.Configuration.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939919892, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1655305939919898, "dur":901, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/System.Configuration.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939920835, "dur":64150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/System.ComponentModel.Composition.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939984989, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1655305939984997, "dur":3611, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/System.ComponentModel.Composition.dll" }}
-,{ "pid":12345, "tid":2, "ts":1655305939988646, "dur":111908, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1655305938790093, "dur":170, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1655305938790263, "dur":2701, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1655305938792964, "dur":113906, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/MonoBleedingEdge/etc/mono/4.5/web.config" }}
-,{ "pid":12345, "tid":3, "ts":1655305938906875, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1655305938906892, "dur":1090, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/MonoBleedingEdge/etc/mono/4.5/web.config" }}
-,{ "pid":12345, "tid":3, "ts":1655305938908001, "dur":69921, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/MonoBleedingEdge/etc/mono/4.0/web.config" }}
-,{ "pid":12345, "tid":3, "ts":1655305938977927, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1655305938977933, "dur":2024, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/MonoBleedingEdge/etc/mono/4.0/web.config" }}
-,{ "pid":12345, "tid":3, "ts":1655305938979977, "dur":30776, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
-,{ "pid":12345, "tid":3, "ts":1655305939010755, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1655305939010761, "dur":757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
-,{ "pid":12345, "tid":3, "ts":1655305939011536, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/MonoBleedingEdge/etc/mono/config" }}
-,{ "pid":12345, "tid":3, "ts":1655305939011566, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1655305939011571, "dur":43027, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/MonoBleedingEdge/etc/mono/config" }}
-,{ "pid":12345, "tid":3, "ts":1655305939054665, "dur":921779, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/UnityPlayer.dll" }}
-,{ "pid":12345, "tid":3, "ts":1655305939976448, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1655305939976454, "dur":13331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/UnityPlayer.dll" }}
-,{ "pid":12345, "tid":3, "ts":1655305939989804, "dur":110788, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1655305938790218, "dur":4, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1655305938790222, "dur":2691, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1655305938792922, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
-,{ "pid":12345, "tid":4, "ts":1655305938792925, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1655305938793873, "dur":328, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
-,{ "pid":12345, "tid":4, "ts":1655305938794204, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/app.info" }}
-,{ "pid":12345, "tid":4, "ts":1655305938794247, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1655305938794482, "dur":4230, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/app.info" }}
-,{ "pid":12345, "tid":4, "ts":1655305938798715, "dur":19344, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":4, "ts":1655305938818062, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1655305938818120, "dur":256846, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":4, "ts":1655305939074985, "dur":23826, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game.exe" }}
-,{ "pid":12345, "tid":4, "ts":1655305939098815, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1655305939098821, "dur":1133, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game.exe" }}
-,{ "pid":12345, "tid":4, "ts":1655305939099989, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Resources/unity default resources" }}
-,{ "pid":12345, "tid":4, "ts":1655305939100038, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1655305939100220, "dur":178433, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Resources/unity default resources" }}
-,{ "pid":12345, "tid":4, "ts":1655305939278672, "dur":24669, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1655305939303346, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1655305939303352, "dur":3240, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1655305939306630, "dur":20820, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.TilemapModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1655305939327454, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1655305939327460, "dur":687, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.TilemapModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1655305939328177, "dur":57165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1655305939385347, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1655305939385353, "dur":2191, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1655305939387581, "dur":21190, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.StreamingModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1655305939408777, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1655305939408787, "dur":3247, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.StreamingModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1655305939412071, "dur":14893, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1655305939426986, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1655305939426993, "dur":1389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1655305939428419, "dur":30454, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.Physics2DModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1655305939458875, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1655305939458881, "dur":4659, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.Physics2DModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1655305939463578, "dur":27270, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1655305939490852, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1655305939490858, "dur":5547, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1655305939496439, "dur":23533, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1655305939519974, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1655305939520003, "dur":1531, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1655305939521579, "dur":13743, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1655305939535327, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1655305939535333, "dur":702, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1655305939536068, "dur":21826, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1655305939557898, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1655305939557904, "dur":1537, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1655305939559474, "dur":21890, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.AIModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1655305939581369, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1655305939581375, "dur":797, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.AIModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1655305939582203, "dur":51541, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/Unity.VisualScripting.Flow.dll" }}
-,{ "pid":12345, "tid":4, "ts":1655305939633748, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1655305939633755, "dur":1140, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/Unity.VisualScripting.Flow.dll" }}
-,{ "pid":12345, "tid":4, "ts":1655305939634927, "dur":704, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/Unity.Subsystem.Registration.dll" }}
-,{ "pid":12345, "tid":4, "ts":1655305939635634, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1655305939635656, "dur":672, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/Unity.Subsystem.Registration.dll" }}
-,{ "pid":12345, "tid":4, "ts":1655305939636378, "dur":46683, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/Unity.AdaptivePerformance.dll" }}
-,{ "pid":12345, "tid":4, "ts":1655305939683063, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1655305939683069, "dur":1223, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/Unity.AdaptivePerformance.dll" }}
-,{ "pid":12345, "tid":4, "ts":1655305939684327, "dur":85900, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/System.Security.dll" }}
-,{ "pid":12345, "tid":4, "ts":1655305939770231, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1655305939770238, "dur":985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/System.Security.dll" }}
-,{ "pid":12345, "tid":4, "ts":1655305939771255, "dur":25222, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/System.IO.Compression.FileSystem.dll" }}
-,{ "pid":12345, "tid":4, "ts":1655305939796483, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1655305939796489, "dur":3612, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/System.IO.Compression.FileSystem.dll" }}
-,{ "pid":12345, "tid":4, "ts":1655305939800139, "dur":120031, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/System.Drawing.dll" }}
-,{ "pid":12345, "tid":4, "ts":1655305939920173, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1655305939920179, "dur":1094, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/System.Drawing.dll" }}
-,{ "pid":12345, "tid":4, "ts":1655305939921307, "dur":24938, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/netstandard.dll" }}
-,{ "pid":12345, "tid":4, "ts":1655305939946248, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1655305939946253, "dur":998, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/netstandard.dll" }}
-,{ "pid":12345, "tid":4, "ts":1655305939947286, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/globalgamemanagers" }}
-,{ "pid":12345, "tid":4, "ts":1655305939947321, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1655305939947324, "dur":791, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/globalgamemanagers" }}
-,{ "pid":12345, "tid":4, "ts":1655305939948145, "dur":152410, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305938790338, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305938790338, "dur":2627, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305938792965, "dur":24900, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
-,{ "pid":12345, "tid":5, "ts":1655305938817870, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305938818080, "dur":64664, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
-,{ "pid":12345, "tid":5, "ts":1655305938882766, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":5, "ts":1655305938882793, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305938883083, "dur":95371, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":5, "ts":1655305938978471, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":5, "ts":1655305938978494, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305938978777, "dur":39396, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":5, "ts":1655305939018193, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/MonoBleedingEdge/etc/mono/browscap.ini" }}
-,{ "pid":12345, "tid":5, "ts":1655305939018219, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305939018225, "dur":84458, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/MonoBleedingEdge/etc/mono/browscap.ini" }}
-,{ "pid":12345, "tid":5, "ts":1655305939102702, "dur":35407, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.XRModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939138113, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305939138338, "dur":750, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.XRModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939139123, "dur":12173, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.WindModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939151300, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305939151391, "dur":653, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.WindModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939152078, "dur":22043, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939174125, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305939174132, "dur":786, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939174951, "dur":21883, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.VFXModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939196838, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305939196847, "dur":741, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.VFXModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939197620, "dur":11875, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939209499, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305939209506, "dur":941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939210485, "dur":13491, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939223980, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305939223987, "dur":728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939224748, "dur":13927, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939238679, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305939238686, "dur":852, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939239573, "dur":11802, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939251379, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305939251386, "dur":782, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939252203, "dur":11816, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939264023, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305939264029, "dur":790, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939264854, "dur":38499, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.UNETModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939303356, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305939303360, "dur":1464, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.UNETModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939304857, "dur":12067, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.TLSModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939316928, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305939316935, "dur":652, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.TLSModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939317617, "dur":33085, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939350706, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305939350713, "dur":686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939351430, "dur":14940, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939366372, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305939366378, "dur":8875, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939375288, "dur":27318, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939402609, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305939402616, "dur":778, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939403431, "dur":33317, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939436753, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305939436759, "dur":723, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939437514, "dur":26205, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939463722, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305939463727, "dur":1145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939464902, "dur":25202, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939490109, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305939490116, "dur":1072, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939491223, "dur":34256, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.GameCenterModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939525483, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305939525489, "dur":825, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.GameCenterModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939526351, "dur":14002, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.ClothModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939540372, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305939540378, "dur":790, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.ClothModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939541270, "dur":27642, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.AnimationModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939568917, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305939568923, "dur":1293, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.AnimationModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939570255, "dur":26578, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/Unity.VisualScripting.State.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939596837, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305939596844, "dur":764, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/Unity.VisualScripting.State.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939597637, "dur":46183, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/Unity.Timeline.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939643825, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305939643831, "dur":764, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/Unity.Timeline.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939644625, "dur":162191, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/System.Xml.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939806821, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305939806827, "dur":2703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/System.Xml.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939809563, "dur":118077, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/System.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939927644, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305939927651, "dur":1738, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/System.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939929421, "dur":2550, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/Assembly-CSharp.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939931975, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305939931983, "dur":815, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/Assembly-CSharp.dll" }}
-,{ "pid":12345, "tid":5, "ts":1655305939932829, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Resources/unity_builtin_extra" }}
-,{ "pid":12345, "tid":5, "ts":1655305939932861, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305939932898, "dur":1016, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Resources/unity_builtin_extra" }}
-,{ "pid":12345, "tid":5, "ts":1655305939933948, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/sharedassets1.assets" }}
-,{ "pid":12345, "tid":5, "ts":1655305939933987, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305939933991, "dur":1876, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/sharedassets1.assets" }}
-,{ "pid":12345, "tid":5, "ts":1655305939935898, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/sharedassets0.assets.resS" }}
-,{ "pid":12345, "tid":5, "ts":1655305939935928, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305939935933, "dur":1385, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/sharedassets0.assets.resS" }}
-,{ "pid":12345, "tid":5, "ts":1655305939937348, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/sharedassets0.assets" }}
-,{ "pid":12345, "tid":5, "ts":1655305939937378, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305939937383, "dur":862, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/sharedassets0.assets" }}
-,{ "pid":12345, "tid":5, "ts":1655305939938278, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/ScriptingAssemblies.json" }}
-,{ "pid":12345, "tid":5, "ts":1655305939938366, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305939938371, "dur":583, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/ScriptingAssemblies.json" }}
-,{ "pid":12345, "tid":5, "ts":1655305939938986, "dur":597, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/RuntimeInitializeOnLoads.json" }}
-,{ "pid":12345, "tid":5, "ts":1655305939939586, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305939939591, "dur":621, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/RuntimeInitializeOnLoads.json" }}
-,{ "pid":12345, "tid":5, "ts":1655305939940244, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/resources.assets.resS" }}
-,{ "pid":12345, "tid":5, "ts":1655305939940275, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305939940279, "dur":785, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/resources.assets.resS" }}
-,{ "pid":12345, "tid":5, "ts":1655305939941094, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/resources.assets" }}
-,{ "pid":12345, "tid":5, "ts":1655305939941127, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305939941131, "dur":2121, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/resources.assets" }}
-,{ "pid":12345, "tid":5, "ts":1655305939943286, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/level1.resS" }}
-,{ "pid":12345, "tid":5, "ts":1655305939943317, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305939943322, "dur":1401, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/level1.resS" }}
-,{ "pid":12345, "tid":5, "ts":1655305939944758, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/level1" }}
-,{ "pid":12345, "tid":5, "ts":1655305939944790, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305939944795, "dur":911, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/level1" }}
-,{ "pid":12345, "tid":5, "ts":1655305939945740, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/level0.resS" }}
-,{ "pid":12345, "tid":5, "ts":1655305939945773, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305939945777, "dur":762, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/level0.resS" }}
-,{ "pid":12345, "tid":5, "ts":1655305939946572, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/level0" }}
-,{ "pid":12345, "tid":5, "ts":1655305939946603, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305939946607, "dur":636, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/level0" }}
-,{ "pid":12345, "tid":5, "ts":1655305939947275, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/globalgamemanagers.assets" }}
-,{ "pid":12345, "tid":5, "ts":1655305939947307, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305939947311, "dur":779, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/globalgamemanagers.assets" }}
-,{ "pid":12345, "tid":5, "ts":1655305939948121, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/boot.config" }}
-,{ "pid":12345, "tid":5, "ts":1655305939948209, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1655305939948212, "dur":573, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/boot.config" }}
-,{ "pid":12345, "tid":5, "ts":1655305939948813, "dur":151740, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1655305938790460, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1655305938790461, "dur":2479, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1655305938792941, "dur":124799, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
-,{ "pid":12345, "tid":6, "ts":1655305938917742, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1655305938917977, "dur":770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
-,{ "pid":12345, "tid":6, "ts":1655305938918760, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":6, "ts":1655305938918786, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1655305938918791, "dur":132243, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":6, "ts":1655305939051055, "dur":197291, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
-,{ "pid":12345, "tid":6, "ts":1655305939248370, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1655305939248471, "dur":3960, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
-,{ "pid":12345, "tid":6, "ts":1655305939252449, "dur":11594, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1655305939264045, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1655305939264050, "dur":805, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1655305939264891, "dur":11112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.UmbraModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1655305939276007, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1655305939276014, "dur":754, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.UmbraModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1655305939276801, "dur":20010, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.UIModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1655305939296815, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1655305939296821, "dur":701, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.UIModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1655305939297554, "dur":78227, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.UI.dll" }}
-,{ "pid":12345, "tid":6, "ts":1655305939375784, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1655305939375790, "dur":1347, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.UI.dll" }}
-,{ "pid":12345, "tid":6, "ts":1655305939377168, "dur":22975, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.SubstanceModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1655305939400209, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1655305939400216, "dur":769, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.SubstanceModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1655305939401023, "dur":17031, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1655305939418058, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1655305939418068, "dur":742, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1655305939418841, "dur":14190, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.ProfilerModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1655305939433036, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1655305939433042, "dur":901, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.ProfilerModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1655305939433979, "dur":29535, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1655305939463518, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1655305939463524, "dur":855, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1655305939464412, "dur":55258, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.IMGUIModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1655305939519674, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1655305939519682, "dur":1564, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.IMGUIModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1655305939521277, "dur":68131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.CoreModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1655305939589412, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1655305939589419, "dur":1311, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/UnityEngine.CoreModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1655305939590762, "dur":32981, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
-,{ "pid":12345, "tid":6, "ts":1655305939623747, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1655305939623754, "dur":929, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
-,{ "pid":12345, "tid":6, "ts":1655305939624720, "dur":139206, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/Unity.TextMeshPro.dll" }}
-,{ "pid":12345, "tid":6, "ts":1655305939763931, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1655305939763937, "dur":948, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/Unity.TextMeshPro.dll" }}
-,{ "pid":12345, "tid":6, "ts":1655305939764918, "dur":49270, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/System.Net.Http.dll" }}
-,{ "pid":12345, "tid":6, "ts":1655305939814209, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1655305939814216, "dur":899, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/System.Net.Http.dll" }}
-,{ "pid":12345, "tid":6, "ts":1655305939815148, "dur":106503, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/System.Data.dll" }}
-,{ "pid":12345, "tid":6, "ts":1655305939921672, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1655305939921680, "dur":1960, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/System.Data.dll" }}
-,{ "pid":12345, "tid":6, "ts":1655305939923675, "dur":117006, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/Mono.Security.dll" }}
-,{ "pid":12345, "tid":6, "ts":1655305940040685, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1655305940040729, "dur":962, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra/PP Coding Game_Data/Managed/Mono.Security.dll" }}
-,{ "pid":12345, "tid":6, "ts":1655305940041723, "dur":58855, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1655305940103696, "dur":1481, "ph":"X", "name": "ProfilerWriteOutput" }
-,{ "pid": 0, "tid": 1, "ts": 1655305940133204, "dur": 604, "ph": "X", "name": "backend_profiler1.traceevents", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1655305940132881, "dur": 945, "ph": "X", "name": "Write chrome-trace events", "args": {} },
+,{ "pid":12345, "tid":0, "ts":1656405922755788, "dur":1513, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656405922757310, "dur":70, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1656405922757387, "dur":21, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1656405922757409, "dur":309, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1656405922757758, "dur":891, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656405922758649, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656405924015997, "dur":68, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656405924016065, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656405924016076, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656405924016079, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656405924016085, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656405924016087, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656405924016094, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656405924016096, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656405924016102, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656405924016104, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656405924016111, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656405924016113, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656405924016120, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656405924016139, "dur":1, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656405924016214, "dur":1848, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1656405922758151, "dur":545, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1656405922758696, "dur":2712, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1656405922761413, "dur":72414, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":1, "ts":1656405922833831, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1656405922834165, "dur":662, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":1, "ts":1656405922834842, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1656405922834869, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1656405922834875, "dur":150363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1656405922985256, "dur":17845, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game.exe" }}
+,{ "pid":12345, "tid":1, "ts":1656405923003104, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1656405923003109, "dur":1169, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game.exe" }}
+,{ "pid":12345, "tid":1, "ts":1656405923004310, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":1, "ts":1656405923004343, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1656405923004537, "dur":64519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":1, "ts":1656405923069073, "dur":11894, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923080971, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1656405923081198, "dur":765, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923081995, "dur":13686, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923095685, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1656405923095690, "dur":850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923096570, "dur":23173, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923119747, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1656405923119753, "dur":787, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923120571, "dur":20105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923140680, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1656405923140689, "dur":742, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923141463, "dur":14543, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923156010, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1656405923156016, "dur":730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923156777, "dur":11908, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923168689, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1656405923168696, "dur":733, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923169463, "dur":36471, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923205938, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1656405923205944, "dur":1635, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923207617, "dur":83544, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923291234, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1656405923291241, "dur":2000, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923293274, "dur":36102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923329379, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1656405923329384, "dur":759, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923330174, "dur":12437, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923342615, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1656405923342621, "dur":703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923343356, "dur":12082, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923355442, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1656405923355448, "dur":900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923356381, "dur":11649, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923368034, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1656405923368040, "dur":719, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923368793, "dur":20775, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923389570, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1656405923389574, "dur":617, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923390226, "dur":58553, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923448782, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1656405923448788, "dur":756, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923449575, "dur":24434, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923474013, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1656405923474019, "dur":828, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923474878, "dur":22295, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923497177, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1656405923497199, "dur":815, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923498045, "dur":51064, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923549112, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1656405923549119, "dur":899, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923550049, "dur":657, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/Unity.Profiling.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923550709, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1656405923550714, "dur":733, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/Unity.Profiling.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923551478, "dur":45651, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/Unity.AdaptivePerformance.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923597132, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1656405923597155, "dur":772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/Unity.AdaptivePerformance.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923597956, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923597990, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1656405923597995, "dur":105031, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923703062, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923703097, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1656405923703102, "dur":20027, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923723160, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923723196, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1656405923723201, "dur":112033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923835265, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923835296, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1656405923835300, "dur":134056, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656405923969391, "dur":46595, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1656405922758527, "dur":209, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1656405922758737, "dur":2693, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1656405922761431, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1656405922761483, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1656405922762830, "dur":55671, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1656405922818522, "dur":53900, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1656405922872426, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1656405922872433, "dur":706, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1656405922873170, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1656405922873192, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1656405922873239, "dur":16024, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1656405922889279, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1656405922889307, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1656405922889312, "dur":16715, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1656405922906044, "dur":135649, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656405923041697, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1656405923041780, "dur":3641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656405923045439, "dur":37152, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656405923082595, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1656405923082672, "dur":668, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656405923083371, "dur":22744, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656405923106119, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1656405923106125, "dur":703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656405923106861, "dur":23440, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656405923130305, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1656405923130311, "dur":710, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656405923131054, "dur":61355, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656405923192413, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1656405923192419, "dur":1214, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656405923193668, "dur":20860, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656405923214531, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1656405923214538, "dur":668, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656405923215236, "dur":102806, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656405923318047, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1656405923318053, "dur":778, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656405923318861, "dur":14978, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656405923333863, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1656405923333869, "dur":771, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656405923334675, "dur":12576, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656405923347255, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1656405923347261, "dur":688, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656405923347980, "dur":22277, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656405923370260, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1656405923370266, "dur":731, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656405923371027, "dur":13083, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656405923384115, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1656405923384121, "dur":792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656405923385130, "dur":15187, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656405923400320, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1656405923400326, "dur":692, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656405923401049, "dur":14461, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656405923415513, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1656405923415520, "dur":729, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656405923416280, "dur":17456, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656405923433740, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1656405923433747, "dur":862, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656405923434644, "dur":66879, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656405923501526, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1656405923501533, "dur":1283, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656405923502848, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656405923502882, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1656405923502887, "dur":35067, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656405923537986, "dur":144679, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656405923682669, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1656405923682675, "dur":1443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656405923684151, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656405923684183, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1656405923684188, "dur":63270, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656405923747490, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656405923747523, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1656405923747529, "dur":26639, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656405923774201, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656405923774233, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1656405923774239, "dur":85765, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656405923860035, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":2, "ts":1656405923860065, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1656405923860070, "dur":3441, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":2, "ts":1656405923863545, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/resources.assets" }}
+,{ "pid":12345, "tid":2, "ts":1656405923863578, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1656405923863582, "dur":1521, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/resources.assets" }}
+,{ "pid":12345, "tid":2, "ts":1656405923865151, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/level0.resS" }}
+,{ "pid":12345, "tid":2, "ts":1656405923865214, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1656405923865241, "dur":896, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/level0.resS" }}
+,{ "pid":12345, "tid":2, "ts":1656405923866169, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":2, "ts":1656405923866200, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1656405923866204, "dur":727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":2, "ts":1656405923866961, "dur":149005, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656405922758321, "dur":409, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656405922758730, "dur":2722, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656405922761453, "dur":56856, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1656405922818313, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656405922818328, "dur":753, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1656405922819094, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1656405922819128, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656405922819188, "dur":53583, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1656405922872784, "dur":15805, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1656405922888593, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656405922888600, "dur":690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1656405922889303, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":3, "ts":1656405922889325, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656405922889329, "dur":222036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":3, "ts":1656405923111382, "dur":12376, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923123762, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656405923123768, "dur":690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923124489, "dur":12831, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923137324, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656405923137330, "dur":688, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923138050, "dur":13416, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923151470, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656405923151476, "dur":699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923152208, "dur":11579, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923163792, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656405923163798, "dur":729, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923164560, "dur":12430, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923176994, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656405923177000, "dur":704, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923177738, "dur":46737, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923224495, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656405923224505, "dur":714, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923225251, "dur":12554, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923237809, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656405923237815, "dur":707, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923238553, "dur":24350, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923262907, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656405923262913, "dur":723, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923263669, "dur":24728, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923288401, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656405923288410, "dur":797, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923289238, "dur":13614, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923302857, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656405923302863, "dur":737, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923303632, "dur":25367, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923329004, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656405923329011, "dur":919, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923329964, "dur":13198, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923343166, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656405923343171, "dur":671, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923343882, "dur":11555, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923355441, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656405923355448, "dur":847, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923356332, "dur":28450, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923384786, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656405923384792, "dur":890, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923385712, "dur":19712, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923405428, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656405923405434, "dur":929, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923406398, "dur":12686, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923419088, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656405923419094, "dur":683, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923419807, "dur":14253, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923434062, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656405923434068, "dur":681, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923434778, "dur":12652, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923447434, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656405923447441, "dur":727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923448200, "dur":13607, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923461811, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656405923461834, "dur":731, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923462596, "dur":24900, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923487501, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656405923487508, "dur":815, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923488354, "dur":25823, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923514181, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656405923514188, "dur":684, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923514903, "dur":45901, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923560807, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656405923560813, "dur":799, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923561641, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923561673, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656405923561677, "dur":33717, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923595426, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923595458, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656405923595463, "dur":59182, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923654676, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923654708, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656405923654717, "dur":48917, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923703664, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923703694, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656405923703698, "dur":111291, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923815020, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923815053, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656405923815059, "dur":70609, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656405923885702, "dur":130290, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1656405922758412, "dur":321, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1656405922758733, "dur":2720, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1656405922761453, "dur":339, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1656405922761795, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1656405922762719, "dur":55717, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1656405922818452, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1656405922818477, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1656405922818749, "dur":15307, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1656405922834072, "dur":48188, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1656405922882264, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1656405922882271, "dur":683, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1656405922882967, "dur":17108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1656405922900079, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1656405922900086, "dur":746, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1656405922900846, "dur":35208, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":4, "ts":1656405922936057, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1656405922936293, "dur":1017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":4, "ts":1656405922937326, "dur":902194, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1656405923839523, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1656405923839529, "dur":12375, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1656405923851924, "dur":594, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1656405923852520, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1656405923852526, "dur":677, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1656405923853236, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":4, "ts":1656405923853272, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1656405923853306, "dur":844, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":4, "ts":1656405923854180, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":4, "ts":1656405923854211, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1656405923854216, "dur":4387, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":4, "ts":1656405923858635, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1656405923858665, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1656405923858670, "dur":3280, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1656405923861980, "dur":562, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":4, "ts":1656405923862544, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1656405923862548, "dur":1054, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":4, "ts":1656405923863634, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/level2" }}
+,{ "pid":12345, "tid":4, "ts":1656405923863679, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1656405923863682, "dur":902, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/level2" }}
+,{ "pid":12345, "tid":4, "ts":1656405923864704, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/level1" }}
+,{ "pid":12345, "tid":4, "ts":1656405923864743, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1656405923864747, "dur":1560, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/level1" }}
+,{ "pid":12345, "tid":4, "ts":1656405923866340, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":4, "ts":1656405923866372, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1656405923866375, "dur":1171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":4, "ts":1656405923867575, "dur":148379, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1656405922758676, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1656405922758677, "dur":2727, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1656405922761412, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":5, "ts":1656405922761413, "dur":2370, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1656405922763790, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/app.info" }}
+,{ "pid":12345, "tid":5, "ts":1656405922763794, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1656405922763949, "dur":4734, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/app.info" }}
+,{ "pid":12345, "tid":5, "ts":1656405922768686, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1656405922768720, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1656405922768786, "dur":197776, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1656405922966580, "dur":422799, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":5, "ts":1656405923389383, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1656405923389388, "dur":1998, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":5, "ts":1656405923391403, "dur":14244, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1656405923405649, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1656405923405654, "dur":877, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1656405923406564, "dur":41361, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1656405923447928, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1656405923447934, "dur":844, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1656405923448809, "dur":26635, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1656405923475447, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1656405923475453, "dur":742, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1656405923476227, "dur":16227, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1656405923492458, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1656405923492464, "dur":1694, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1656405923494189, "dur":60398, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":5, "ts":1656405923554591, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1656405923554598, "dur":977, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":5, "ts":1656405923555606, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":5, "ts":1656405923555638, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1656405923555643, "dur":141262, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":5, "ts":1656405923696938, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1656405923696985, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1656405923696990, "dur":56961, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1656405923753983, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1656405923754015, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1656405923754024, "dur":72919, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1656405923826974, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":5, "ts":1656405923827004, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1656405923827010, "dur":27321, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":5, "ts":1656405923854363, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":5, "ts":1656405923854396, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1656405923854400, "dur":7069, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":5, "ts":1656405923861502, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":5, "ts":1656405923861593, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1656405923861597, "dur":644, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":5, "ts":1656405923862272, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1656405923862303, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1656405923862311, "dur":1285, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1656405923863629, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/level2.resS" }}
+,{ "pid":12345, "tid":5, "ts":1656405923863665, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1656405923863669, "dur":844, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/level2.resS" }}
+,{ "pid":12345, "tid":5, "ts":1656405923864545, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/level1.resS" }}
+,{ "pid":12345, "tid":5, "ts":1656405923864578, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1656405923864582, "dur":971, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/level1.resS" }}
+,{ "pid":12345, "tid":5, "ts":1656405923865583, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/level0" }}
+,{ "pid":12345, "tid":5, "ts":1656405923865615, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1656405923865619, "dur":804, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/level0" }}
+,{ "pid":12345, "tid":5, "ts":1656405923866453, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1656405923866542, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1656405923866546, "dur":834, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1656405923867426, "dur":148527, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1656405922758727, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1656405922758728, "dur":2726, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1656405922761454, "dur":81380, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1656405922842839, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1656405922842857, "dur":29899, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1656405922872772, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1656405922872798, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1656405922873067, "dur":12511, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1656405922885595, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1656405922885621, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1656405922885627, "dur":301599, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1656405923187245, "dur":11507, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656405923198757, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1656405923198763, "dur":806, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656405923199600, "dur":30536, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656405923230141, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1656405923230147, "dur":730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656405923230910, "dur":24670, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656405923255584, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1656405923255591, "dur":672, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656405923256294, "dur":56645, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656405923312944, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1656405923312950, "dur":811, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656405923313793, "dur":20046, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656405923333861, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1656405923333869, "dur":727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656405923334629, "dur":21615, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656405923356262, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1656405923356268, "dur":640, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656405923356938, "dur":27252, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656405923384192, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1656405923384198, "dur":918, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656405923385164, "dur":13128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656405923398296, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1656405923398307, "dur":1270, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656405923399611, "dur":12394, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656405923412009, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1656405923412016, "dur":663, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656405923412709, "dur":14593, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656405923427306, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1656405923427312, "dur":708, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656405923428051, "dur":12674, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656405923440730, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1656405923440737, "dur":761, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656405923441531, "dur":12989, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656405923454524, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1656405923454530, "dur":691, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656405923455252, "dur":12573, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656405923467829, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1656405923467836, "dur":1372, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656405923469241, "dur":78155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656405923547400, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1656405923547407, "dur":828, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656405923548267, "dur":1938, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/Unity.Subsystem.Registration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656405923550207, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1656405923550227, "dur":1746, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/Unity.Subsystem.Registration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656405923552054, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656405923552096, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1656405923552101, "dur":53215, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656405923605347, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656405923605379, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1656405923605384, "dur":85167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656405923690583, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656405923690621, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1656405923690626, "dur":19518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656405923710176, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656405923710212, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1656405923710217, "dur":124923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656405923835173, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656405923835208, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1656405923835213, "dur":180693, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/palad/Desktop/Gotova Igra Windows/PP Coding Game_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656405924015940, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":6, "ts":1656405924015941, "dur":1, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656405924019513, "dur":1601, "ph":"X", "name": "ProfilerWriteOutput" }
+,{ "pid": 0, "tid": 1, "ts": 1656405924055152, "dur": 657, "ph": "X", "name": "backend_profiler1.traceevents", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1656405924054817, "dur": 1008, "ph": "X", "name": "Write chrome-trace events", "args": {} },
